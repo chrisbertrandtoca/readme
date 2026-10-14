@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "id": "52e8d31b-944e-4bfb-8d18-a3c35983f8a8",
+    "platformVersion": "10.0.0",
+    "schemaVersion": "1.0.0"
+  },
+  "content": {
+    "id": "52e8d31b-944e-4bfb-8d18-a3c35983f8a8",
+    "accent": "#360c61",
+    "route": "readme",
+    "description": "readme",
+    "cmsEnabled": false,
+    "versioning": true,
+    "workspaceId": "52e8d31b-944e-4bfb-8d18-a3c35983f8a8",
+    "resourceId": "52e8d31b-944e-4bfb-8d18-a3c35983f8a8",
+    "name": "readme"
+  }
+}
